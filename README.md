@@ -11,7 +11,6 @@
 - HTML5 : 熟悉應用 HTML 標籤，熟悉如何切版且不依賴 Bootstrap 切出客戶需求的頁面
 - Sass : 將重用性的 CSS 模組化，加速開發並提高維護性
 - 使用 AJAX , Promise(Axios套件) 撈取遠端後端資料並渲染在網頁上、透過 AJAX 使用 RESTful 理念操作
-- 使用 D3.js 繪製各式動態圖表
 - 使用 Webpack 壓縮檔案並提高網頁效率
 - 使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法
 <hr>
