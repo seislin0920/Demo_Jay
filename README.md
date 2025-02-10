@@ -3,7 +3,7 @@
 - E-mail: seislin0920@gmail.com
 <hr>
 
-### 自我介紹
+### <a href="https://docs.google.com/presentation/d/e/2PACX-1vS2lN_lDPropLdA4orCy9sYAo3lHd8bnnHfe4srKMpzyTGzeqcK6Og0Jr7orm-lNZ_KbQYO5AQGq5Tz/pub?start=false&loop=false&delayms=3000" target="blank">自我介紹</a>
 各位好，我是 林書丞，畢業於中正大學地震所，論文題目是探討強地動對於宜蘭場址效應的評估。在研究過程中，我使用 Fortran 進行數據分析，這讓我對程式語言產生了濃厚的興趣，也開啟了我投入軟體開發的契機。 <BR>
 目前，我在中央研究院地球科學研究所的資料管理中心擔任網頁工程師，負責將地球科學數據轉化為視覺化服務，讓複雜的地震數據能夠以直觀的方式呈現。我全程參與了系統規劃與介面設計，專案前端採用 Vue3，後端則基於 Django GraphQL API，並運用 Docker 進行環境容器化管理，確保開發與部署的一致性。此外，我也使用 Git 進行版本控制，確保團隊協作的流暢度。最終，該專案成功上線並獲得了良好的回饋。 <BR>
 在這個過程中，我透過不斷自學與實踐，培養了前端設計、後端管理的核心技能，也更加熟悉數據視覺化、系統架構設計與開發流程。我樂於學習與挑戰新技術，期望未來能持續精進自身能力，為團隊帶來更多價值。 <BR>
