@@ -36,7 +36,7 @@
  # 台灣即時地震科學資訊平臺 (TESIS)
  - <a href="https://tesis.earth.sinica.edu.tw/" target="blank"><B>TESIS</B><BR>
    ⌞ 使用 i18n 支持多語言（中 / 英) 。<BR>
-   ⌞ 設計 UI/UX 並製作較完整的購物網站流程，含前台跟後台以及購物車頁面等等。<BR>
-   ⌞ 使用 Cookies 來記錄使用者登入狀態及當前搜尋書本關鍵字 <BR>
-   ⌞ 使用 RESTful API 來完成後台的商品及上傳 CRUD 功能 <BR>
-   ⌞ 使用 Google Analytics 來追蹤網站成效，並且設定轉換率確認使用者停留頁面等等事件<BR>
+   ⌞ 使用 Leaflet <BR>
+   ⌞ 使用 Bootstrap <BR>
+   ⌞ 使用 router <BR>
+   ⌞ 使用 pinia <BR>
